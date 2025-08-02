@@ -42,7 +42,7 @@ Open your terminal or command prompt and run the following commands to install t
 pip install beautifulsoup4
 pip install lxml
 pip install requests
-
+```bash
 
 Usage
 Save the script: Save the provided Python code into a file named, for example, movie_recommender.py.
